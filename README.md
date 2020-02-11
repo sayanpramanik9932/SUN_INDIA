@@ -1,2 +1,6 @@
 # SUN_INDIA
-SMART PARKING SYSTEM WITH ARDUINO (3 ultrasonic sensor,1 servo motor,2 LED)
+SMART PARKING SYSTEM WITH ARDUINO 
+      ultrasonic sensor = 3
+			arduino UNO = 1
+			servo motor =1
+			LED = 2
